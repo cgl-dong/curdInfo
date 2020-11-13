@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.his.app.mapper.Nurse_existMapper">
+
+    <select id="all"   resultType="Nurse_exist">
+        SELECT name,address,sex,age,position,department,education,profession,date FROM nurse_exist
+    </select>
+
+
+</mapper>
