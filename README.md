@@ -45,9 +45,7 @@ A simple CURD informatization background(一个简单的curd的信息化后台).
 
 ![](./curdInfo-front/img/login.png)
 
-
-
-![](https://github.com/cgl-dong/curdInfo/blob/master/curdInfo-front/img/visual.png)
+![](./curdInfo-front/img/visual.png)
 
 ![](./curdInfo-front/img/main.png)
 
